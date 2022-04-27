@@ -1,5 +1,5 @@
 
-// authot : Seif El_Den Mohamed (Sonic_AR)
+// author : Seif El_Den Mohamed (Sonic_AR)
 
 #include <stdio.h>
 #include <string.h>
